@@ -8,7 +8,7 @@ class SampleAppApplicationTests {
 
 	@Test
 	public void contextLoads() {
-		assertTrue(true);
+		// something??
 	}
 
 }
